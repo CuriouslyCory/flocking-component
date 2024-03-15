@@ -303,7 +303,7 @@ importers:
         specifier: workspace:^0.1.0
         version: link:../../tooling/prettier
       '@curiouslycory/tailwind-config':
-        specifier: workspace:^
+        specifier: workspace:^0.1.0
         version: link:../../tooling/tailwind
       '@curiouslycory/tsconfig':
         specifier: workspace:^0.1.0
